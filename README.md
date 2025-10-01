@@ -6,3 +6,4 @@ Basics
 2.datatypes
 3.tamplate literal
 4.Operators
+5.Conditional Statements
