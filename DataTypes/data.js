@@ -1,0 +1,38 @@
+        // premitive
+        
+        let num = 234;
+        document.writeln(num);
+        console.log(num);
+        console.log(typeof num);
+
+        let name= "james";
+        document.write(name);
+        console.log(name);
+        console.log(typeof name);
+
+        let yes = true;
+        let no = false;
+        console.log(yes);
+        console.log(typeof yes);
+        console.log(no);
+        console.log(typeof no);
+
+        // special
+
+        let sun;
+        console.log(sun);
+        console.log(typeof sun);
+
+        let value= null;
+        console.log(value);
+        console.log(typeof value);
+
+        // non-preitive or composte
+
+        let color =["red","blue","pink"];
+        console.log(color);
+        console.log(typeof color);
+        
+        let person ={ firstname: "sai", lastname: "ari", age:21 };
+        console.log(person);
+        console.log(typeof person);
