@@ -8,3 +8,5 @@ Basics
 4.Operators
 5.Conditional Statements
 6.Loops
+7.arrays(learns methods)
+8.Funtions and Methods
