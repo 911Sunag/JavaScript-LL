@@ -7,3 +7,4 @@ Basics
 3.tamplate literal
 4.Operators
 5.Conditional Statements
+6.Loops
