@@ -10,3 +10,5 @@ Basics
 6.Loops
 7.arrays(learns methods)
 8.Funtions and Methods
+9.Dom
+10.Events
